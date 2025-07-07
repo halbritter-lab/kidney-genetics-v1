@@ -14,3 +14,7 @@ analyses/shared/data/downloads
 
 # anything containg the string "TEST" in filename
 *TEST*
+
+# claude files and folders
+.claude/
+CLAUDE.md
