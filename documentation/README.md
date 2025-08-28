@@ -2,7 +2,7 @@
 
 The repository subfolder for the Kidney-Genetics documentation.
 
-<code>The documentation is automatically built and deployed to https://halbritter-lab.github.io/kidney-genetics/ using GitHub Actions into the branch hg-pages.
+<code>The documentation is automatically built and deployed to https://halbritter-lab.github.io/kidney-genetics-v1/ using GitHub Actions into the branch hg-pages.
 The configuration for the GitHub Pages build is in the `.github/workflows` folder.</code>
 
 For local development only, the documentation can be built using the following commands:

@@ -11,7 +11,7 @@ colorlinks: yes
 description: "This documentation is intended to describe the Kidney-Genetics project"
 graphics: yes
 github-repo: halbritter-lab/kidney-genetics
-url: https://halbritter-lab.github.io/kidney-genetics/
+url: https://halbritter-lab.github.io/kidney-genetics-v1/
 ---
 
 <!-- here we load required libraries -->

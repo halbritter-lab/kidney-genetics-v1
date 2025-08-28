@@ -30,7 +30,7 @@ The documentation also shows the current result from each analysis and the merge
 
 ## Documentation
 
-Please explore [The Kidney-Genetics Documentation](https://halbritter-lab.github.io/kidney-genetics/) hosted on GitHub pages and build with bookdown.
+Please explore [The Kidney-Genetics Documentation](https://halbritter-lab.github.io/kidney-genetics-v1/) hosted on GitHub pages and build with bookdown.
 
 
 ## File Structure
