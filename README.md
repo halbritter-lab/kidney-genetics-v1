@@ -12,6 +12,7 @@ Welcome to the GitHub repository  "Kidney-Genetics", a systematically curated, r
 - [Usage](#usage)
 - [Documentation](#documentation)
 - [File structure](#file-structure)
+- [How to cite](#how-to-cite)
 - [License](#license)
 - [Creators](#creators-and-contributors)
 - [Contact](#contact)
@@ -85,9 +86,21 @@ The repository has the following structure:
 - The `results/` sub-directory in each analysis folder stores the generated results.
 
 
+## How to cite
+
+Use [CITATION.cff](CITATION.cff) for the repository's citation metadata. Until an
+archived release is available, include the full Git commit SHA of the database
+and analysis scripts used alongside the repository URL in your citation.
+
+No release version or Zenodo DOI is assigned yet. Maintainers can follow
+[RELEASING.md](RELEASING.md) to prepare the first release, archive it with Zenodo,
+and then add its DOI badge here. Cite the version-specific DOI for reproducibility
+once that release is archived.
+
+
 ## License
 
-This project is licensed under the terms of the MIT license. For more information, please refer to the [License](LICENSE.md) file.
+This project is licensed under the terms of the MIT license. For more information, please refer to the [License](LICENSE) file.
 
 
 ## Creators and contributors

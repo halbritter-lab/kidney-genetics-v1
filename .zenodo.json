@@ -1,0 +1,42 @@
+{
+  "title": "Kidney-Genetics: A reproducible and curated database of kidney-related genes",
+  "description": "Kidney-Genetics compiles a curated database of kidney-related genes from PanelApp, literature, clinical diagnostic panels, Human Phenotype Ontology annotations, and PubTator. R analysis scripts merge and annotate these sources, and bookdown documentation presents the resulting gene tables.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Popp, Bernt",
+      "affiliation": "Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Center of Functional Genomics, Berlin, Germany; Labor Berlin – Charité Vivantes GmbH, Berlin, Germany",
+      "orcid": "0000-0002-3679-1081"
+    },
+    {
+      "name": "Wolff, Constantin Aaron",
+      "orcid": "0000-0002-3277-4559"
+    },
+    {
+      "name": "Rank, Nina",
+      "affiliation": "Department of Nephrology and Medical Intensive Care, Charité – Universitätsmedizin Berlin, Berlin, Germany; Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Center of Functional Genomics, Berlin, Germany",
+      "orcid": "0000-0002-5984-4836"
+    },
+    {
+      "name": "Halbritter, Jan P.",
+      "affiliation": "Department of Nephrology and Medical Intensive Care, Charité – Universitätsmedizin Berlin, Berlin, Germany; Department of Nephrology, Universitätsklinikum Freiburg, Freiburg, Germany",
+      "orcid": "0000-0002-1377-9880"
+    }
+  ],
+  "keywords": [
+    "kidney disease",
+    "gene curation",
+    "genomics",
+    "nephrology",
+    "bioinformatics"
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/halbritter-lab/kidney-genetics-v1",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
