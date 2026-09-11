@@ -1,0 +1,31 @@
+# Add version and date-released when the first release is selected; see RELEASING.md.
+cff-version: 1.2.0
+message: If you use Kidney-Genetics in your research, please cite this repository and the exact revision or archived release used.
+type: software
+title: 'Kidney-Genetics: A reproducible and curated database of kidney-related genes'
+abstract: Kidney-Genetics compiles a curated database of kidney-related genes from PanelApp, literature, clinical diagnostic panels, Human Phenotype Ontology annotations, and PubTator. R analysis scripts merge and annotate these sources, and bookdown documentation presents the resulting gene tables.
+url: https://halbritter-lab.github.io/kidney-genetics-v1/
+repository-code: https://github.com/halbritter-lab/kidney-genetics-v1
+license: MIT
+keywords:
+  - kidney disease
+  - gene curation
+  - genomics
+  - nephrology
+  - bioinformatics
+authors:
+  - family-names: Popp
+    given-names: Bernt
+    orcid: https://orcid.org/0000-0002-3679-1081
+    affiliation: Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Center of Functional Genomics, Berlin, Germany; Labor Berlin – Charité Vivantes GmbH, Berlin, Germany
+  - family-names: Wolff
+    given-names: Constantin Aaron
+    orcid: https://orcid.org/0000-0002-3277-4559
+  - family-names: Rank
+    given-names: Nina
+    orcid: https://orcid.org/0000-0002-5984-4836
+    affiliation: Department of Nephrology and Medical Intensive Care, Charité – Universitätsmedizin Berlin, Berlin, Germany; Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Center of Functional Genomics, Berlin, Germany
+  - family-names: Halbritter
+    given-names: Jan P.
+    orcid: https://orcid.org/0000-0002-1377-9880
+    affiliation: Department of Nephrology and Medical Intensive Care, Charité – Universitätsmedizin Berlin, Berlin, Germany; Department of Nephrology, Universitätsklinikum Freiburg, Freiburg, Germany
